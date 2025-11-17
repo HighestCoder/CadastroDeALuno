@@ -1,0 +1,24 @@
+[
+    {
+        "nome": "Yago",
+        "matricula": "7645",
+        "dataNasc": "02/03/2005"
+    },
+    {
+        "nome": "Yago",
+        "matricula": "7689",
+        "dataNasc": "02032005"
+    },
+    {
+        "nome": "Charles",
+        "matricula": "2563",
+        "dataNasc": "13/11/1985"
+    },
+    {
+        "nome": "Software",
+        "id": 324,
+        "turno": "N",
+        "sala": 21,
+        "prof": "yURI "
+    }
+]

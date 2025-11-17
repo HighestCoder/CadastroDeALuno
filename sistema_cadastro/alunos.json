@@ -1,0 +1,79 @@
+[
+    {
+        "nome": "Yago",
+        "matricula": "7645",
+        "dataNasc": "02/03/2005"
+    },
+    {
+        "nome": "Yago",
+        "matricula": "7689",
+        "dataNasc": "02032005"
+    },
+    {
+        "nome": "Charles",
+        "matricula": "2563",
+        "dataNasc": "13/11/1985"
+    },
+    {
+        "nome": "yago",
+        "matricula": "34532",
+        "dataNasc": "02/03/2002"
+    },
+    {
+        "nome": "pedro",
+        "matricula": "3453",
+        "dataNasc": "21/12/1988"
+    },
+    {
+        "nome": "Yago ",
+        "matricula": "1353",
+        "dataNasc": "02/03/2005"
+    },
+    {
+        "nome": "Tyago",
+        "matricula": "46342",
+        "dataNasc": "02/04/2004"
+    },
+    {
+        "nome": "Yago ",
+        "matricula": "8547",
+        "dataNasc": "02/03/2005",
+        "Nota": "8.8"
+    },
+    {
+        "nome": "Yago",
+        "matricula": "4323",
+        "dataNasc": "02/03/2005",
+        "nota": 8.2
+    },
+    {
+        "nome": "Joao Martins",
+        "matricula": "32412",
+        "dataNasc": "02/03/2005",
+        "nota": 9.9
+    },
+    {
+        "nome": "Yago",
+        "matricula": "32123",
+        "dataNasc": "02023030",
+        "nota": 4.5
+    },
+    {
+        "nome": "Yago",
+        "matricula": "3214",
+        "dataNasc": "02032005",
+        "nota": 4.6
+    },
+    {
+        "nome": "Yago",
+        "matricula": "2154",
+        "dataNasc": "02/03/2005",
+        "nota": 8.9
+    },
+    {
+        "nome": "Tyago",
+        "matricula": "325252",
+        "dataNasc": "20/05/1999",
+        "nota": 8.0
+    }
+]
